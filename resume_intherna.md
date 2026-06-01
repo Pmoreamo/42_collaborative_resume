@@ -1,10 +1,10 @@
 # [INTI HERNANDEZ SERVITJA]
-13/2/2004, Barcelona, Catalonia, Spain. |
-C/Badosa, 29, Barcelona. |
-Barcelona, Catalonia, Spain |
-intiviolia@gmail.com |
-Linkedin: https://www.linkedin.com/in/algorhythmics/ |
-Github: https://github.com/TAlgorhythmic/ |
+13/2/2004, Barcelona, Catalonia, Spain.\
+C/Badosa, 29, Barcelona.\
+Barcelona, Catalonia, Spain.\
+intiviolia@gmail.com.\
+Linkedin: https://www.linkedin.com/in/algorhythmics/.\
+Github: https://github.com/TAlgorhythmic/.\
 
 ---
 
@@ -39,9 +39,9 @@ Solid experience in interpersonal communication, empathy, and conflict resolutio
 --- 
 ## IDIOMS
 ### **Technical & Languages**
-*   **Computer Skills:** 
-- Advance knowledge in Java, Javascript, HTML, CSS, Rust, C.
-- Basic knowledge in C++ and Ptyhon.
-*   **Languages:** 
-- Catalan/Spanish: Native.
-- English: B2.
+* **Computer Skills:** 
+Advance knowledge in Java, Javascript, HTML, CSS, Rust, C. |
+Basic knowledge in C++ and Ptyhon. |
+*   **Languages:**  
+Catalan/Spanish: Native. |
+English: B2. |
