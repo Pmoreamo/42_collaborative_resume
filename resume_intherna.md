@@ -1,10 +1,10 @@
 # [INTI HERNANDEZ SERVITJA]
 13/2/2004, Barcelona, Catalonia, Spain.\
 C/Badosa, 29, Barcelona.\
-Barcelona, Catalonia, Spain.
+Barcelona, Catalonia, Spain.\
 Mail: intiviolia@gmail.com.\
 Linkedin: https://www.linkedin.com/in/algorhythmics/ .\
-Github: https://github.com/TAlgorhythmic/ .\
+Github: https://github.com/TAlgorhythmic/
 
 ---
 
@@ -14,14 +14,22 @@ Detail-oriented tech professional with a solid foundation in **Software Engineer
 ---
 
 ## EDUCATION
-### **Vocational Training Degree in Natural Environment and Leisure Guide**
-**Nom de la escola de la muntaya** | *2020 - 2021*
-### **Software Engineering Program**
-**Tokyo School** | *2021 - 2023*
-### **Javascript Bootcamp**
-**Nom de on va fer el bootcamp** | *2023 - 2023*
+
 ### **Software Engineering Program**
 **42 Barcelona (Fundación Telefónica)** | *2025 – Present*
+- Field of Study: Computer Science & Systems Development.
+- Project-based, peer-to-peer learning platform focused on autonomous problem-solving and clean code.
+-  Entire curriculum, software development, and technical documentation conducted strictly in English.
+### **Javascript Bootcamp**
+**Nom de on va fer el bootcamp** | *2023 - 2023*
+- Intensive full-stack web development training focused on modern JavaScript ecosystems.
+### **Software Engineering Program**
+**Tokyo School** | *2021 - 2023*
+- Specialized training in software development methodologies and foundational programming.
+### **Vocational Training Degree in Natural Environment and Leisure Guide**
+**Nom de la escola de la muntaya** | *2020 - 2021*
+- Field of Study: Physical and Sports Activities in the Natural Environment.
+- Focused on group leadership, risk management, and team safety in high-pressure environments.
 
 ---
 
@@ -36,12 +44,10 @@ Strong competence in structured planning, time management, and task prioritizati
 *   **Customer Service:** 
 Solid experience in interpersonal communication, empathy, and conflict resolution under pressure. Natural ability to identify user needs, polished through leading and ensuring the safety of international groups of tourists.
 
---- 
-## IDIOMS
 ### **Technical & Languages**
 * **Computer Skills:**\
 Advance knowledge in Java, Javascript, HTML, CSS, Rust, C.\
 Basic knowledge in C++ and Ptyhon.
-*   **Languages:**
+*   **Languages:**\
 Catalan/Spanish: Native.\
 English: B2.
