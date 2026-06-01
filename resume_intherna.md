@@ -19,32 +19,32 @@ I am eager to leverage this unique combination of logical thinking, adaptability
 ## EDUCATION
 
 ### **Software Engineering Program**
-**42 Barcelona (Fundación Telefónica)** | *2025 – Present*
+**42 Barcelona (Fundación Telefónica)** | *2025 – Present*\
 Field of Study: Computer Science & Systems Development. Project-based, peer-to-peer learning platform focused on autonomous problem-solving and clean code. Entire curriculum, software development, and technical documentation conducted strictly in English.
 
 ### **Javascript Bootcamp**
-**Nom de on va fer el bootcamp** | *2023 - 2023*
+**Nom de on va fer el bootcamp** | *2023 - 2023*\
 Intensive full-stack web development training focused on modern JavaScript ecosystems.
 
 ### **Software Engineering Program**
-**Tokyo School** | *2021 - 2023*
+**Tokyo School** | *2021 - 2023*\
 Specialized training in software development methodologies and foundational programming.
 
 ### **Vocational Training Degree in Natural Environment and Leisure Guide**
-**Nom de la escola de la muntaya** | *2020 - 2021*
+**Nom de la escola de la muntaya** | *2020 - 2021*\
 Field of Study: Physical and Sports Activities in the Natural Environment Focused on group leadership, risk management, and team safety in high-pressure environments.
 
 ---
 
 ## SKILLS
 ### **Core Soft Skills**
-*   **Teamwork:**\ 
+*   **Teamwork:**
 Proven ability to collaborate effectively in multidisciplinary environments. Developed both through the peer-to-peer ecosystem at 42 Barcelona—via co-evaluations and collaborative software development—and through managing groups safely in natural environments.
 
-*   **Organization:**\
+*   **Organization:**
 Strong competence in structured planning, time management, and task prioritization. Demonstrated through successfully managing an autonomous learning schedule for complex software projects.
 
-*   **Customer Service:**\ 
+*   **Customer Service:** 
 Solid experience in interpersonal communication, empathy, and conflict resolution under pressure. Natural ability to identify user needs, polished through leading and ensuring the safety of international groups of tourists.
 
 ### **Technical & Languages**
