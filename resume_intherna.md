@@ -1,10 +1,10 @@
 # [INTI HERNANDEZ SERVITJA]
-13/2/2004, Barcelona, Catalonia, Spain.
-C/Badosa, 29, Barcelona.
-Barcelona, Catalonia, Spain
-intiviolia@gmail.com
-Linkedin: https://www.linkedin.com/in/algorhythmics/ 
-Github: https://github.com/TAlgorhythmic/
+13/2/2004, Barcelona, Catalonia, Spain. |
+C/Badosa, 29, Barcelona. |
+Barcelona, Catalonia, Spain |
+intiviolia@gmail.com |
+Linkedin: https://www.linkedin.com/in/algorhythmics/ |
+Github: https://github.com/TAlgorhythmic/ |
 
 ---
 
@@ -22,6 +22,7 @@ Detail-oriented tech professional with a solid foundation in **Software Engineer
 **Nom de on va fer el bootcamp** | *2023 - 2023*
 ### **Software Engineering Program**
 **42 Barcelona (Fundación Telefónica)** | *2025 – Present*
+
 ---
 
 ## SKILLS
@@ -42,5 +43,5 @@ Solid experience in interpersonal communication, empathy, and conflict resolutio
 - Advance knowledge in Java, Javascript, HTML, CSS, Rust, C.
 - Basic knowledge in C++ and Ptyhon.
 *   **Languages:** 
-**English** (B2).
-**Catalan/Spanish** (Native).
+- Catalan/Spanish: Native.
+- English: B2.
